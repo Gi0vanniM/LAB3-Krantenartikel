@@ -1,0 +1,21 @@
+img{
+    float: left;
+    border: 2px solid black;
+    margin: 15px;
+}
+
+#v2 {
+    float: right;
+}
+
+h1 {
+    font-size: 500%;
+}
+
+p{
+    width: 50%;
+}
+
+body {
+    background-color: darkcyan;
+}
